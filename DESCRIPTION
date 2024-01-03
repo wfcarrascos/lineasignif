@@ -1,0 +1,16 @@
+Package: lineasignif
+Title: Dibuja lineas de significación a graficos de ggplot2
+Version: 0.0.0.1
+Authors@R: 
+    person("Washington Fernando", "Carrasco Sangache", , "wfcarrascos@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "https://orcid.org/0000-0001-6634-0612"))
+Description: What the package does (one paragraph).
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports:
+  dplyr,
+  tibble
+Depends:
+  ggplot2
