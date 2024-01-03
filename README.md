@@ -1,17 +1,5 @@
----
-output: github_document
----
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
 
 # lineasignif
 
@@ -22,10 +10,10 @@ Insertar lineas de significación a gráficos de ggplot2
 
 ## Installation
 
-You can install the development version of lineasignif from [GitHub](https://github.com/) with:
+You can install the development version of lineasignif from
+[GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
 devtools::install_github("wfcarrascos/lineasignif")
 ```
-
